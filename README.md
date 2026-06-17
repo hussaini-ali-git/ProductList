@@ -18,7 +18,7 @@
 |**Main Entity**<br>Products|
 |**Navigation Entity**<br>Supplier|
 
-## product112
+## product22
 
 An SAP Fiori application.
 
